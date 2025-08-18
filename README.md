@@ -1,49 +1,51 @@
 📝 ATS Resume App
 
-A web application that helps users generate and optimize resumes for Applicant Tracking Systems (ATS).
+A web application that helps users upload, analyze, and optimize resumes to improve their chances of passing through Applicant Tracking Systems (ATS).
 
-Frontend (React + Vite) → ats-resume-app-y2xh.onrender.com
+🔗 Live Demo
 
-Backend (Express + Node.js) → ats-resume-app-backend.onrender.com
+Frontend (React + Vite): ats-resume-app-y2xh.onrender.com
+
+Backend (Express + Node.js): ats-resume-app-backend.onrender.com
 
 🚀 Features
 
-Resume input and parsing.
-
-ATS-friendly resume scoring.
-
-Integration with Google API for text processing.
-
-Responsive and modern UI with React + TailwindCSS.
-
-Deployed on Render (Frontend & Backend).
+✅ Upload resume in PDF format
+✅ Extract & analyze resume text using Google AI API
+✅ ATS-friendly resume scoring (0–100)
+✅ Suggestions for missing keywords, strengths, and weaknesses
+✅ Modern and responsive UI with React + Tailwind CSS
+✅ Deployed on Render (Frontend & Backend)
 
 🏗️ Tech Stack
+🔹 Frontend
 
-Frontend
+⚛️ React (Vite) – fast and lightweight
 
-React (Vite)
+🎨 Tailwind CSS – responsive and modern UI
 
-Tailwind CSS
+🌐 Axios – API communication
 
-Axios
+🔹 Backend
 
-Backend
+🟢 Node.js – runtime environment
 
-Node.js
+🚂 Express.js – backend framework
 
-Express
+🤖 Google Generative AI API – resume analysis & scoring
 
-Google API (resume analysis)
+🔒 CORS – secure frontend-backend communication
 
-CORS enabled for frontend communication
-
-Deployment
+🔹 Deployment
 
 Frontend: Render (Static Site)
 
-Backend: Render (Web Service) 
+Backend: Render (Web Service)
 
-screen shots  <img width="1025" height="831" alt="image" src="https://github.com/user-attachments/assets/87aa2224-0a59-46f7-ae0e-0cadea2e8e9a" />
-<img width="1042" height="862" alt="image" src="https://github.com/user-attachments/assets/65b8c187-092c-4d86-9ee0-267d06f27d06" />
+📸 Screenshots
+🔹 Home Page – Upload Resume & Job Description
+<img width="1025" height="831" alt="image" src="https://github.com/user-attachments/assets/f7d19eb4-bb39-4120-88b8-15c8046765bc" />
 
+
+🔹 Resume Analysis Result
+<img width="1042" height="862" alt="image" src="https://github.com/user-attachments/assets/69dc7b9c-3504-48e1-9201-e00c079262a7" />
