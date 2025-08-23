@@ -7,7 +7,8 @@ function App() {
   const [error, setError] = useState(null);
   const [loading, setLoading] = useState(false);
 
-  const API_URL = "http://localhost:8000";
+  const API_URL = import.meta.env.VITE_BACKEND_URL;
+
 
   const handleFileChange = (e) => {
     const selectedFile = e.target.files[0];
