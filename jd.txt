@@ -1,0 +1,21 @@
+A Software Development Engineer (SDE) JD involves designing, coding, testing, and maintaining software, collaborating with teams, and ensuring quality, requiring skills in languages (Java, Python, C++), data structures, algorithms, and SDLC, with responsibilities spanning from requirement analysis to deployment and support, often demanding strong problem-solving and teamwork. 
+Key Responsibilities
+Design & Development: Develop clean, efficient, and scalable code, designing software components and integrating them into functional systems.
+SDLC Execution: Manage the full Software Development Life Cycle, from requirement gathering to deployment and maintenance.
+Testing & Debugging: Write tests, perform quality assurance, and debug/resolve issues.
+Collaboration: Work with cross-functional teams (PMs, designers) to define features and meet project goals.
+Code Quality: Participate in code reviews, ensuring adherence to best practices and standards.
+Documentation: Create flowcharts, specifications, and maintain documentation.
+Maintenance & Optimization: Upgrade existing systems and optimize performance. 
+Required Skills & Qualifications
+Education: BS/MS in Computer Science or related field.
+Programming: Proficiency in languages like Java, Python, C++, JavaScript.
+Fundamentals: Strong understanding of algorithms, data structures, object-oriented design.
+Databases: Knowledge of SQL, ORMs (JPA2, Hibernate).
+Web Technologies: Experience with web frameworks (Spring MVC) or frontend (HTML, CSS).
+Tools: Familiarity with software engineering tools (Git, Linux).
+Soft Skills: Excellent problem-solving, analytical, communication, and teamwork skills. 
+Key Areas (Backend/Frontend/Full Stack)
+Backend: Focus on APIs, services, security, data protection, performance.
+Frontend: Focus on UI, user experience, responsiveness, page load times.
+Full Stack: Handles both front-end and back-end, including databases and APIs
