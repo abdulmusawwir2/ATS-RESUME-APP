@@ -48,3 +48,10 @@ A web application that helps users upload, analyze, and optimize resumes to impr
 
 ### 🔹 Resume Analysis Result
 ![Resume Result](https://github.com/user-attachments/assets/69dc7b9c-3504-48e1-9201-e00c079262a7)
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ebf6f05-ff12-4e88-a511-f4c8bca0b54a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ce204ab-b25c-465a-8e91-79f450c7a22e" />
+
+
