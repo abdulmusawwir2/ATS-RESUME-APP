@@ -41,13 +41,19 @@ pipeline {
 
         stage('Deploy with Docker Compose') {
             steps {
-                sh '''
-                docker compose pull
-                docker compose down
-                docker compose up -d
-                '''
+                withCredentials([
+                    string(credentialsId: 'google-api-key', variable: 'GOOGLE_API_KEY')
+                ]) {
+                    sh '''
+                    export GOOGLE_API_KEY=$GOOGLE_API_KEY
+                    docker compose pull
+                    docker compose down
+                    docker compose up -d
+                    '''
+                }
             }
         }
+
     }
 
     post {
