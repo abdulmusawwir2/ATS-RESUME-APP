@@ -23,9 +23,18 @@ pipeline {
             }
         }
 
+        // stage('Build Frontend Image') {
+        //     steps {
+        //         sh 'docker build -t $FRONTEND_IMAGE ./frontend'
+        //     }
+        // }
         stage('Build Frontend Image') {
             steps {
-                sh 'docker build -t $FRONTEND_IMAGE ./frontend'
+                sh '''
+                docker build --no-cache \
+                -t abdulmusawwir2/ats-frontend:latest \
+                ./frontend
+                '''
             }
         }
 
